@@ -14,7 +14,7 @@ module.exports = {
     },
   ],
   extends: [
-    'plugin:vue/vue-recommended',
+    'plugin:vue/recommended',
     '@lewebsimple/eslint-config-ts',
   ],
   rules: {
