@@ -1,0 +1,27 @@
+{
+  "name": "@lewebsimple/eslint-config-ts",
+  "version": "0.4.1",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Pascal Martineau <pascal@lewebsimple.ca> (https://github.com/lewebsimple/)",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@lewebsimple/eslint-config-basic": "^0.4.1",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
