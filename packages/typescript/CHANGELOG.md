@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.7](https://github.com/lewebsimple/eslint-config/compare/v0.4.6...v0.4.7) (2021-12-18)
+
+
+### Bug Fixes
+
+* Revert typescript dependency ([334b50b](https://github.com/lewebsimple/eslint-config/commit/334b50bf7128a11850c323b102dee8fbe366bb35))
+
+
+
+
+
 ## [0.4.6](https://github.com/lewebsimple/eslint-config/compare/v0.4.5...v0.4.6) (2021-12-18)
 
 
