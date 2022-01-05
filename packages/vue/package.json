@@ -10,16 +10,17 @@
   ],
   "main": "index.js",
   "peerDependencies": {
-    "eslint": ">=7.4.0"
-  },
-  "publishConfig": {
-    "access": "public"
+    "eslint": ">=7"
   },
   "dependencies": {
     "@lewebsimple/eslint-config-ts": "^0.4.8",
-    "eslint-plugin-vue": "^8.1.1"
+    "eslint-plugin-vue": "^8.2.0"
   },
   "devDependencies": {
-    "eslint": "^8.3.0"
+    "eslint": "^8.6.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
