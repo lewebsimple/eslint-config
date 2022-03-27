@@ -1,6 +1,6 @@
 {
   "name": "@lewebsimple/eslint-config",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -13,7 +13,7 @@
     "eslint": ">=7"
   },
   "dependencies": {
-    "@lewebsimple/eslint-config-vue": "^0.5.2",
+    "@lewebsimple/eslint-config-vue": "^0.5.3",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
     "@typescript-eslint/parser": "^5.10.2",
     "eslint-plugin-vue": "8.4.0",
