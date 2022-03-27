@@ -9,7 +9,6 @@ module.exports = {
     "plugin:prettier/recommended",
   ],
   rules: {
-    "sort-imports": ["error", { "allowSeparatedGroups": true }],
     // Prettier
     "prettier/prettier": ["error", {
       printWidth: 120,
